@@ -22,5 +22,5 @@ def square(a):
 def cube (a):
 	return a ** 3
 
-def square_n_times (number, n)
+def square_n_times (number, n):
 	return number ** n 
